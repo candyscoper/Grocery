@@ -1,0 +1,5 @@
+NEED TO CREATE A FILE THAT STORES SECTION INFO
+
+stores all item information upon closing.
+can have multiple layers of sections.
+can add new stores (like pharmacy)

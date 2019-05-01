@@ -1,0 +1,35 @@
+reciever
+print store
+import orders
+print store
+log off
+reshelver
+reshelf items
+print store
+log off
+cashier
+sell/0000001004/7
+sell/0000001006/3
+sell/0000001001/7
+log off
+cashier
+sell/0000001004/7
+sell/0000001006/3
+sell/0000001001/7
+sell/0000001006/9
+sell/0000001005/15
+sell/0000002001/2
+set aisle/Grocery/Dairy/4
+log off
+manager
+start sale/0000001005/3.99
+start sale/0000002001/2.49
+set aisle/Grocery/Dairy/4
+set aisle/Pharmacy/SectionA/7
+log off
+cashier
+sell/0000001005/4
+log off
+manager
+end sale/0000001005
+log off

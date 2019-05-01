@@ -1,0 +1,16 @@
+0000001001/Durain/3.0/5.0/11/10/5/0/9/5.0/Grocery/Produce/Fruits
+no history
+0000001002/Eggs (dozen)/2.2/6.99/20/30/10/0/20/6.99/Grocery/Dairy/Eggs
+no history
+0000001003/Watermelon/2.0/6.59/30/15/5/0/10/6.59/Grocery/Produce/Fruits/Large Fruits
+no history
+0000001004/Grapefruit/0.6/1.99/10/30/10/0/5/1.99/Grocery/Produce/Fruits
+no history
+0000001005/Goat Milk/2.2/5.99/10/20/5/0/10/5.99/Grocery/Dairy/Milk
+no history
+0000001006/Lamb Leg/3.0/8.99/30/10/3/0/5/8.99/Grocery/Meats/Lamb
+no history
+0000001008/Salmon/4.0/7.99/20/10/5/0/10/7.99/Grocery/Meats/Fish/Sea Fish
+no history
+0000001007/Cow Milk 2%/2.0/5.99/30/20/5/0/20/5.99/Grocery/Dairy/Milk
+no history

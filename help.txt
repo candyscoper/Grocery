@@ -1,0 +1,32 @@
+To run the code, simple compile the main function in Main.cpp. You can write commands in events.txt to perform different functions.
+
+Here are a list of commands you can write in events.txt for the program to execute.
+
+You first need to log on with either of these names:
+"user" (generic user with access to all functions, used for debugging)
+"manager"
+"cashier"
+"reshelver"
+"reciever"
+
+And then you can call any of these functions (though certain types of users can't actually run certain functions)
+
+"sell/*itemUPC*/*(int)amount*" (simulates the action of scanning an item for sale, item will be reshelved if there's not enough items on the shelf)
+
+"import orders" (puts any arrived orders in stock)
+
+"reshelf items" (goes through all items in stock and shelf them, will not shelf more than the max amount allowed in store)
+
+"reorder items" (goes through all items in stock and looks for any item below the threshold, sends an order for those items in orders.txt)
+
+"start sale/*itemUPC*/*(double)price" (puts the item on sale at the specified price)
+
+"end sale/*itemUPC*" (ends the item's sale)
+
+"print store" (prints out every section, subsection and items in the store)
+
+You need to log off at the end by writing this:
+"log off"
+this saves all your changes into txt files so next time you logged on the store doesn't reset.
+
+

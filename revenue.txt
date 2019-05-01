@@ -1,0 +1,3 @@
+revenue 11096.87
+cost 4533.80
+profit 6563.07

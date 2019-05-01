@@ -1,0 +1,6 @@
+0000001001/Durain/3/5/20/10/5/Grocery/Produce/Fruits
+0000001007/Cow Milk 2%/2.0/5.99/30/20/5/Grocery/Dairy/Milk
+0000001008/Salmon/4.0/7.99/20/10/5/Grocery/Meats/Fish
+0000001005/Goat Milk/2.2/5.99/20/20/5/Grocery/Dairy/Milk
+0000002001/Tylenol/1.2/3.99/20/10/7/Pharmacy/SectionA
+0000002002/Thermometer/2.5/5.99/10/10/5/Pharmacy/SectionA

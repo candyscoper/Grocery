@@ -1,0 +1,239 @@
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 12, ordered date: Wed Aug 09 14:26:13 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 14:26:13 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:10:44 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:10:44 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:10:44 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:15:07 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:15:07 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:15:07 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:16:44 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:16:44 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:16:44 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:37:00 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:37:00 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:37:00 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:37:44 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:37:44 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:37:44 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:38:21 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:38:21 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:38:21 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:38:51 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:38:51 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:38:51 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:39:20 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:39:20 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:39:20 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:40:09 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:40:09 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:40:09 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:41:57 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:41:57 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:41:57 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:42:27 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:42:27 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:42:27 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:48:11 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:48:11 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:48:11 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:49:28 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:49:28 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:49:28 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:51:42 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:51:42 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:51:42 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:53:06 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:53:06 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:53:06 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 21:59:31 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 21:59:31 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 21:59:31 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:00:30 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:00:30 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:00:30 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:02:32 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:02:32 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:02:32 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:05:37 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:05:37 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:05:37 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:07:20 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:07:20 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:07:20 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:18:59 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:18:59 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:18:59 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:21:33 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:21:33 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:21:33 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:25:36 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:25:36 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:25:36 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:26:11 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:26:11 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:26:11 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:27:14 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:27:14 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:27:14 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:27:36 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:27:36 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:27:36 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:30:39 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:30:39 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:30:39 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:31:28 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:31:28 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:31:28 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:32:49 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:32:49 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:32:49 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:35:08 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:35:08 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:35:08 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:37:43 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:37:43 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:37:43 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:38:20 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:38:20 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:38:20 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:39:09 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:39:09 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:39:09 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:40:23 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:40:23 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:40:23 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:43:55 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:43:55 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:43:55 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:46:50 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:46:50 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:46:50 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:48:04 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:48:04 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:48:04 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:51:30 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:51:30 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:51:30 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:51:48 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:51:48 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:51:48 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 22:57:19 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 22:57:19 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 22:57:19 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:05:19 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:05:19 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:05:19 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:06:06 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:06:06 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:06:06 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:06:59 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:06:59 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:06:59 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:07:56 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:07:56 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:07:56 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:10:57 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:10:57 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:10:57 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:11:35 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:11:35 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:11:35 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:12:31 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:12:31 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:12:31 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:12:59 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:12:59 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:12:59 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:14:47 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:14:47 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:14:47 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:15:19 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:15:19 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:15:19 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:15:45 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:15:45 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:15:45 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:18:19 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:18:19 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:18:19 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:19:12 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:19:12 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:19:12 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:20:44 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:20:44 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:20:44 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:22:31 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:22:31 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:22:31 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:24:30 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:24:30 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:24:30 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:28:28 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:28:28 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:28:28 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:28:43 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:28:43 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:28:43 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:29:26 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:29:26 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:29:26 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:29:42 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:29:42 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:29:42 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:30:17 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:30:17 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:30:17 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:30:34 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:30:34 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:30:34 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:31:13 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:31:13 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:31:13 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:31:47 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:31:47 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:31:47 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:34:35 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:34:35 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:34:35 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:34:49 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:34:49 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:34:49 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:35:24 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:35:24 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:35:24 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:36:54 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:36:54 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:36:54 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:38:13 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:38:13 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:38:13 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:38:28 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:38:28 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:38:28 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:38:37 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:38:37 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:38:37 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:39:13 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:39:13 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:39:13 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:40:07 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:40:07 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:40:07 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:40:33 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:40:33 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:40:33 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:40:45 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:40:45 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:40:45 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:41:24 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:41:24 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:41:24 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:41:47 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:41:47 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:41:47 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:43:04 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:43:04 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:43:04 EDT 2017
+UPC: 0000001002, name: Eggs (dozen), cost: $2.20, order amount: 40, ordered date: Wed Aug 09 23:47:14 EDT 2017
+UPC: 0000001004, name: Grapefruit, cost: $0.60, order amount: 40, ordered date: Wed Aug 09 23:47:14 EDT 2017
+UPC: 123UPC, name: wee, cost: $2.00, order amount: 11, ordered date: Wed Aug 09 23:47:14 EDT 2017
